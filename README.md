@@ -28,7 +28,7 @@ This command-line network manager is a Python program designed to manage network
 3. Install dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r dependencies.txt
     ```
 
 ## Usage
