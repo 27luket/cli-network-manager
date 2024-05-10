@@ -3,7 +3,7 @@ Author: Luke Trujillo
 Date: 2024-05-09
 Version: 1.0
 
-This command-line network manager is a Python program designed to interactively manage network traffic.
+This command-line network manager is a Python program designed to manage network traffic.
 
 Classes:
 1. Network Manager
