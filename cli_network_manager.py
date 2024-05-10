@@ -3,7 +3,7 @@ Author: Luke Trujillo
 Date: 2024-05-09
 Version: 1.0
 
-This program is a command-line network manager that allows users to interactively control packet sniffing, scan for active hosts, send custom packets, and perform SYN flood attacks.
+This command-line network manager is a Python program designed to interactively manage network traffic.
 
 Classes:
 1. Network Manager
