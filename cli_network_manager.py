@@ -7,8 +7,7 @@ This command-line network manager is a Python program designed to manage network
 
 Classes:
 1. Network Manager
-    - Manages the playback of music tracks
-    - Provides functionality for adding a batch of songs from a text file
+    - Controls interactions with the network
 
 2. CLI:
     - Provides a command-line interface for users to interact with the network manager
