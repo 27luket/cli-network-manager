@@ -1,7 +1,7 @@
 # Command-Line Network Manager
 
 ## Overview
-This command-line network manager is a Python program designed to interactively manage network traffic.
+This command-line network manager is a Python program designed to manage network traffic.
 
 ## Features
 - Sniff packets
