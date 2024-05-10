@@ -35,7 +35,7 @@ This command-line network manager is a Python program designed to manage network
 1. Run the program:
 
     ```bash
-    python cli_network_manager.py
+    sudo python cli_network_manager.py
     ```
 
 2. Type `help` to see available commands.
